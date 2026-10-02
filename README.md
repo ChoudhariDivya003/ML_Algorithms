@@ -4,3 +4,7 @@ Machine Learning algorithms and practice using Python.
 ## Linear Regression
 
 [Open in Google Colab](https://colab.research.google.com/drive/1S686-f-fj7sz7HbyygXXct5gOT6ESQO1?usp=sharing)
+
+## Logistic Regression
+
+[Open in Google Colab]([https://colab.research.google.com/drive/1S686-f-fj7sz7HbyygXXct5gOT6ESQO1?usp=sharing](https://colab.research.google.com/drive/1uc_amiedo-XJ4LPABhUUsBBgSUm36f3W?usp=sharing))
