@@ -7,3 +7,7 @@ Machine Learning algorithms and practice using Python.
 
 ## Logistic Regression
 [Open in Google Colab](https://colab.research.google.com/drive/1uc_amiedo-XJ4LPABhUUsBBgSUm36f3W?usp=sharing)
+
+## Decision Tree
+
+[Open in Google Colab](https://colab.research.google.com/drive/1AzwueqnoeUBDlriuziFc909lQsnX_L-X)
