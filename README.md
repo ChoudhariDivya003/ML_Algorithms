@@ -11,3 +11,7 @@ Machine Learning algorithms and practice using Python.
 ## Decision Tree
 
 [Open in Google Colab](https://colab.research.google.com/drive/1AzwueqnoeUBDlriuziFc909lQsnX_L-X)
+
+## Random Forest
+
+[Open in Google Colab](https://colab.research.google.com/drive/18u0DSK8wH5YmXDxwUM9TV3H2qukREnag)
