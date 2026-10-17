@@ -15,3 +15,7 @@ Machine Learning algorithms and practice using Python.
 ## Random Forest
 
 [Open in Google Colab](https://colab.research.google.com/drive/18u0DSK8wH5YmXDxwUM9TV3H2qukREnag)
+
+## K-Nearest Neighbors (KNN)
+
+[Open in Google Colab](https://colab.research.google.com/drive/1dDABxHdwriFqDAD2qP1uZDuXvDw9EV6q?usp=sharing)
